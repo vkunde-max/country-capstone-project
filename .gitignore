@@ -1,0 +1,6 @@
+
+*.db
+*.csv
+*.png
+test_db.py
+venv/
